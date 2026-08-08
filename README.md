@@ -8,6 +8,8 @@
 > Please be aware that the source code will then be published when the Software has been polished.
 >
 > I expect the first release in Q3-Q4 in 2027
+>
+> The Guide and the functions might change during development!
 
 ---
 
