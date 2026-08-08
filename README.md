@@ -4,12 +4,14 @@
 
 > [!CAUTION]
 > The project is still an ongoing process.
-> Please be aware that the source code will then be published when the Software has left the Alpha and Beta testing stages. 
+>
+> Please be aware that the source code will then be published when the Software has been polished.
+>
+> I expect the first release in Q3-Q4 in 2027
 
 ---
 
-  Imagine your business has a security system with cameras, motion detectors, and an alarm. AISec is like that, but for your 
-  computer network.
+Imagine your business has a security system with cameras, motion detectors, and an alarm. AISec is like that, but for your computer network.
 
   #### The Problem It Solves
 
@@ -19,8 +21,7 @@
   - Botnets trying to use your devices for attacks
   - Data thieves looking for passwords and sensitive information
 
-  Traditional firewalls are like a locked front door—they stop some intruders, but determined attackers find other ways
-  in (like through a window).
+  Traditional firewalls are like a locked front door—they stop some intruders, but determined attackers find other way's in (like through a window). That's where Firewalls and WAF applications fail.
 
 ---
 
@@ -78,10 +79,18 @@
   │  ├─ AI detects: Normal = 2GB/week, Abnormal = 50GB in 1 hour
   │  ├─ AISec alerts security team
   │  └─ Team reviews and manually blocks the access
+  │
+  Friday, 1am:
+  ├─ Insider threat: Infected Employee System downloads customer database
+  │  ├─ AI detects: Normal = 0GB/weekend, Abnormal = -1MB/1MB+ in 1 min
+  │  ├─ AISec recognizes malicious traffic → BLOCKED IP
+  │  └─ AISec alerts security team
+  │
+  
 ```
 ---
 
-  **Three Versions (Like Coffee Shop Sizes)**
+  **Three Versions are on the roadmap:**
 
   - Community Edition (Free)
   - Business Edition (Paid/Subscription based)
@@ -126,8 +135,7 @@
 
   Traditional Firewall = Locked front door (blocks obvious intruders)
 
-  AISec = Security guard + locked door (recognizes attackers, spots unusual behavior, and throws out threats before they
-  cause damage)
+  AISec = Security guard + locked door (recognizes attackers, spots unusual behavior, and throws out threats before they cause damage)
 
   ---
   **TLDR:** AISec is automated threat detection that watches your network 24/7, recognizes attacks (both known and
