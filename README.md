@@ -80,7 +80,7 @@ Imagine your business has a security system with cameras, motion detectors, and 
   │  ├─ AISec alerts security team
   │  └─ Team reviews and manually blocks the access
   │
-  Friday, 1am:
+  Saturday, 1am:
   ├─ Insider threat: Infected Employee System downloads customer database
   │  ├─ AI detects: Normal = 0GB/weekend, Abnormal = -1MB/1MB+ in 1 min
   │  ├─ AISec recognizes malicious traffic → BLOCKED IP
