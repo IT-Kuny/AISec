@@ -108,6 +108,11 @@ Imagine your business has a security system with cameras, motion detectors, and 
   - ✅ Transparent — You can see exactly what threats were detected
   - ✅ Replaces IDS/IPS on your Firewall
 
+> [!NOTE]
+> The first release will start with VyOS and pfSense support
+>
+> More firewalls and appliances will be added in the future
+
 ---
 
   **What You're Protected From**
