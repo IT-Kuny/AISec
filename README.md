@@ -5,9 +5,9 @@
 > [!CAUTION]
 > The project is still an ongoing process.
 >
-> Please be aware that the source code will then be published when the Software has been polished.
+> Please be aware that the source code will no be published due to decomps and such.
 >
-> I expect the first release in Q3-Q4 in 2027
+> I expect the first alpha release in Q3-Q4 in 2027
 >
 > The Guide and the functions might change during development!
 
